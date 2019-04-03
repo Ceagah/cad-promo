@@ -2,7 +2,7 @@
 Cadastro de promoções
 *****************************
 Trabalho proposto na aula de Análise de Sistemas II.
-- Coletar os requisitos e criar um protótipo de um sistema de cadastros de promoções.
+- Coletar os requisitos e criar um protótipo de um sistema de cadastros de promoções. [Apenas HTML e CSS]
 - Apresentar protótipo de alto nivel.
 [Facultativo : continuar o projeto , fazer o backend e o banco de dados]
 *****************************
@@ -54,4 +54,8 @@ Requisitos.
 DIA 02/04/2019 
 CONCLUIDO - Login
           - Menu lateral
+*****************************
+DIA 03/04/2019
+CONCLUIDO - Login.html , cad-new.html, new-senha.html. Todas as paginas conectadas. Menu da pagina index.html concluido.
+Next step = Criar as paginas internas, e vincular barra de menus.
 *****************************
