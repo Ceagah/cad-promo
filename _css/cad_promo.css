@@ -48,7 +48,7 @@ color: white;
 border-radius: 24px;
 transition: 0.25s;
 }
-.cad input[type="textbox"] {
+.cad textarea.cond {
 border: 0;
 background: none;
 display: block;
@@ -56,8 +56,8 @@ margin: 20px auto;
 text-align: center;
 border: 2px solid #3498db;
 padding: 14px 10px;
-width: 200px;
-height: 200px;
+width: 150x;
+height: 150px;
 outline:none;
 color: white;
 border-radius: 24px;
@@ -69,10 +69,11 @@ width: 280px;
 border-color: #2ecc71;
 }
 
-.cad input[type="textbox"]:focus{
-width: 300px;
-height: 300px;
+.cad textarea.cond:focus{
+width: 350px;
+height: 150px;
 border-color: #2ecc71;
+padding: 10px;
 }
 
 .cad input#hora1, input#hora2{
