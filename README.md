@@ -59,3 +59,6 @@ DIA 03/04/2019
 CONCLUIDO - Login.html , cad-new.html, new-senha.html. Todas as paginas conectadas. Menu da pagina index.html concluido.
 Next step = Criar as paginas internas, e vincular barra de menus.
 *****************************
+DIA 21/04/2019
+CONCLUIDO - todos os cadastros.
+Next Step = Pesquisas e Iframe.
