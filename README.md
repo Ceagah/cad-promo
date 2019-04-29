@@ -62,3 +62,7 @@ Next step = Criar as paginas internas, e vincular barra de menus.
 DIA 21/04/2019
 CONCLUIDO - todos os cadastros.
 Next Step = Pesquisas e Iframe.
+*****************************
+DIA 29/04/2019
+CONCLUIDO - Pesquisas
+Next Step = Configurações de conta
