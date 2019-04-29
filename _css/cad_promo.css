@@ -7,7 +7,7 @@ background: #34495e;
 }
 
 .cad{
-width: 400px;
+width: 500px;
 padding: 40px;
 position: absolute;
 margin: 20px 0px 0px 300px;
@@ -20,16 +20,13 @@ border-radius: 12px;
 .cad label{
   color: white;
 }
-
 .cad h1{
 color:white;
-text-transformation: uppercase;
 font-weight: 500;
 }
 
 .cad h3{
 color:white;
-text-transformation: uppercase;
 font-weight: 100;
 }
 
