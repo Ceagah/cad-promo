@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../_css/config.css">
+    <title>PromoCode - Suas promoções em um só lugar</title>
+    <script>
+        function f1() {
+            alert("Senha atualizada com sucesso!");
+        }
+
+        function f2() {
+                alert("Instruções para troca da senha enviada para o e-mail cadastrado. Verifique sua caixa de spam");
+            }
+    </script>
+</head>
+
+
+<body>
+    <form class="pref">
+        Senha antiga <input type="password" name="old">
+        Nova senha <input type="password" name="new">
+        <input type="submit" name="pass" placeholder="Senha" value="Alterar" onclick="f1()">
+        <input type="submit" name="pass" placeholder="Senha" value="Esqueci minha senha" onclick="f2()">
+    </form>
+
+</body>
+
+</html>
