@@ -95,6 +95,9 @@ cursor: pointer;
 background: #2ecc71;
 }
 
+ul{
+  text-align: left;
+}
 
 a:hover{
 text-decoration: underline;
