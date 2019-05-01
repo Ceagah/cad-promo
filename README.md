@@ -66,3 +66,7 @@ Next Step = Pesquisas e Iframe.
 DIA 29/04/2019
 CONCLUIDO - Pesquisas
 Next Step = Configurações de conta
+*****************************
+DIA 01/05/2019
+CONCLUIDO - Configurações da conta.
+PROJETO FINALIZADO COM SUCESSO. Aguardando apresentação e aprovação/correção do aplicador.
