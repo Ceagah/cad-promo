@@ -70,3 +70,7 @@ Next Step = Configurações de conta
 DIA 01/05/2019
 CONCLUIDO - Configurações da conta.
 PROJETO FINALIZADO COM SUCESSO. Aguardando apresentação e aprovação/correção do aplicador.
+*****************************
+DIA 29/05/2019
+NECESSIDADE DE CORREÇÃO OU IMPLEMENTAÇÃO 
+Implementar Àrea do Admin, na tela de login separar Prestador de Serviço/Empresa, de usuário final, para que se tenha controle do que é postado.
