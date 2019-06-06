@@ -74,3 +74,9 @@ PROJETO FINALIZADO COM SUCESSO. Aguardando apresentação e aprovação/correç�
 DIA 29/05/2019
 NECESSIDADE DE CORREÇÃO OU IMPLEMENTAÇÃO 
 Implementar Àrea do Admin, na tela de login separar Prestador de Serviço/Empresa, de usuário final, para que se tenha controle do que é postado.
+******************************
+DIA 05/06/2019
+CONCLUIDO - Botão para denunciar promoção/produto , Área do admnistrador [ com login separado ], relatórios e tela com as denuncias.
+Next Step : ??????? Qualquer melhoria que venha ser necessário.
+******************************
+A documentação com os casos de usos e tabelas serão publicados assim que for aceita e autorizada pelo orientador do curso.
