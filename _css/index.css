@@ -84,8 +84,8 @@ max-height: 10em;
 iframe#main {
   position: absolute;
   display: block;
-  width: 200px;
-  height: 400px;
+  width: auto;
+  height: auto;
   border: none;
   overflow: hidden;
 

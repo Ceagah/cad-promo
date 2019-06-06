@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #FFF;
+}
+#menu{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    
+}
+#menu li{
+    list-style: none;
+    display: inline-block
+}
+
+#menu li a{
+    text-decoration: none;
+    position: relative;
+    color: #000;
+    font-size: 24px;
+    font-weight:500;
+    font-family: sans-serif;
+    display: block;
+    overflow: hidden;
+    transition: .7s all;
+    padding: 14px 20px;
+}
+
+#menu li a:before{
+    content: '';
+    width: 60px;
+    position: absolute;
+    border-bottom: 8px solid #424242 ;
+    bottom: 0;
+    right: 350px;
+    transition: .7s all;
+
+}
+#menu li a:hover:before{
+    right: 0;
+
+}
+iframe{
+    border-top: 200px;
+    
+}
+

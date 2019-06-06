@@ -20,13 +20,11 @@ border-radius: 12px;
 
 .box h1{
 color:white;
-text-transformation: uppercase;
 font-weight: 500;
 }
 
 .box h3{
 color:white;
-text-transformation: uppercase;
 font-weight: 100;
 }
 
@@ -85,7 +83,7 @@ a.login{
   background: none;
   display: block;
   margin: 20px auto;
-  test-aling: center;
+  text-align: center;
   border: 2px solid #2ecc71;
   padding: 14px 40px;
   outline:none;
