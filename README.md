@@ -78,8 +78,8 @@ Implementar Àrea do Admin, na tela de login separar Prestador de Serviço/Empre
 DIA 05/06/2019
 CONCLUIDO - Botão para denunciar promoção/produto , Área do admnistrador [ com login separado ], relatórios e tela com as denuncias.
 Next Step : ??????? Qualquer melhoria que venha ser necessário.
-******************************
-A documentação com os casos de usos e tabelas serão publicados assim que for aceita e autorizada pelo orientador do curso.
 *******************************
 DIA 10/06/2019
 Acrescentado area do visitante, para que qualquer pessoa possa buscar por promoções , mesmo nao estando logado.
+******************************
+A documentação com os casos de usos e tabelas serão publicados assim que for aceita e autorizada pelo orientador do curso.
