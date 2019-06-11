@@ -80,3 +80,6 @@ CONCLUIDO - Botão para denunciar promoção/produto , Área do admnistrador [ c
 Next Step : ??????? Qualquer melhoria que venha ser necessário.
 ******************************
 A documentação com os casos de usos e tabelas serão publicados assim que for aceita e autorizada pelo orientador do curso.
+******************************,
+DIA 10/06/2019
+Acrescentado area do visitante.
